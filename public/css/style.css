@@ -1,0 +1,16 @@
+.avatar {
+    width: 35px;
+    height: 35px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+}
+
+.minicon {
+    width: 10;
+    height: 10;
+}
+
+.title {
+    color: blue;
+}
